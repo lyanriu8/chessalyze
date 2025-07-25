@@ -1,0 +1,11 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "git.decorations.enabled": true,
+    "java.dependency.autoRefresh": true,
+    "explorer.decorations.colors": true,
+    "explorer.decorations.badges": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "files.exclude": {
+        "**/.venv": false
+    },
+}
