@@ -1,16 +1,21 @@
+<div align="center">
+
 # ♟️ Chessalyze
-Play chess and review games with AI
+
+**Your intelligent chess engine and game analyzer**
+
 ![Status](https://img.shields.io/badge/status-WIP-yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/lyanriu8/chessalyze)
 ![GitHub issues](https://img.shields.io/github/issues/lyanriu8/chessalyze)
+
+</div>
 
 ## 🛠️ Tech Stack
 - Backend: Python + FastAPI
 - Fronend: TBD
 
 ## 🚀 Feautrues
-🧠 Custom Chess Engine with move by move review
+- Custom chess engine with move by move review
+- AI-powered game analysis
 
-📊 AI-Powered Game Analysis of your favourite chess websites 
-
-🔮 More to come!
+And more to come!
