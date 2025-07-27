@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/status-WIP-yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/lyanriu8/chessalyze)
 ![GitHub issues](https://img.shields.io/github/issues/lyanriu8/chessalyze)
-![Build Status](https://img.shields.io/github/actions/workflow/status/lyanriu8/chessalyze/ci.yml)
 
 </div>
 
