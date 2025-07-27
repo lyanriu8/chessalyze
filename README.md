@@ -2,7 +2,7 @@
 
 # ♟️ Chessalyze
 
-**Your intelligent chess engine and game analyzer**
+**Your intelligent chess engine and game analyzer.**
 
 ![Status](https://img.shields.io/badge/status-WIP-yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/lyanriu8/chessalyze)

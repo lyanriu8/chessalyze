@@ -1,7 +1,5 @@
 """json reader of chess.com api"""
 
-# pylint: disable=line-too-long
-
 import requests
 
 
